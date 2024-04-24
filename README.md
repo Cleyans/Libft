@@ -1,5 +1,5 @@
 # Libft
-Libft is a C library that provides implementations of certain standard C library functions, as well as additional useful functions.
+`Libft` is a C library that provides implementations of certain standard C library functions, as well as additional useful functions.
 
 ## Installation
 1. Clone this repository to your local machine.
