@@ -1,23 +1,18 @@
 # Libft
-
-Libft est une bibliothèque de fonctions en C qui fournit des implémentations de certaines fonctions standard de la bibliothèque C, ainsi que des fonctions supplémentaires utiles.
+Libft is a C library that provides implementations of certain standard C library functions, as well as additional useful functions.
 
 ## Installation
+1. Clone this repository to your local machine.
+2. Navigate to the project directory: `cd Libft`.
+3. Compile the library by running the `make` command.
 
-1. Clonez ce dépôt sur votre machine locale.
-2. Naviguez vers le répertoire du projet : `cd Libft`.
-3. Compilez la bibliothèque en exécutant la commande `make`.
+## Usage
+1. Include the `libft.h` file in your C program: `#include "libft.h"`.
+2. Use the functions from the Libft library in your code.
 
-## Utilisation
-
-1. Incluez le fichier `libft.h` dans votre programme C : `#include "libft.h"`.
-2. Utilisez les fonctions de la bibliothèque Libft dans votre code.
-
-## Structure du projet
-
-Le projet est organisé comme suit :
-
-- `libft.h` : le fichier d'en-tête contenant les prototypes des fonctions.
-- `libft.a` : la bibliothèque statique compilée.
-- `src/` : le répertoire contenant les fichiers source des fonctions.
-- `includes/` : le répertoire contenant les fichiers d'en-tête supplémentaires.
+## Project Structure
+The project is organized as follows:
+- `libft.h`: the header file containing the function prototypes.
+- `libft.a`: the compiled static library.
+- `src/`: the directory containing the source files of the functions.
+- `includes/`: the directory containing additional header files.
